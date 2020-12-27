@@ -4,4 +4,4 @@
 * Разметка и стилизация
 * Мобильная адаптация от Mobile first
 
-[Демо](http://example.com/link)
+[Демо](https://matrix-web.github.io/Elegance/)
